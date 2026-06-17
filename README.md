@@ -15,7 +15,8 @@ To analyze the performance of marketing campaigns and optimize customer engageme
 - Channel-wise engagement comparison
 
 ## 🔗 Live Dashboard  
-[🔗 View Dashboard](#) <https://app.powerbi.com/links/jQC7etwTb1?ctid=a7f5879d-8d95-4f95-b1a0-410c54c47106&pbi_source=linkShare>
+[🔗 Click here to view Blinkit Dashboard](https://app.powerbi.com/singleSignOn?ctid=a7f5879d-8d95-4f95-b1a0-410c54c47106&pbi_source=linkShare&ru=https%3A%2F%2Fapp.powerbi.com%2Flinks%2FjQC7etwTb1%3Fctid%3Da7f5879d-8d95-4f95-b1a0-410c54c47106%26pbi_source%3DlinkShare%26noSignUpCheck%3D1)
+
 
 ---
 
